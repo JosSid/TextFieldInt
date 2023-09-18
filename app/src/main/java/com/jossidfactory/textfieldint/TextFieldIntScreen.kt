@@ -1,4 +1,4 @@
-package com.jossidfactory.textfieldint.ui.theme
+package com.jossidfactory.textfieldint
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
